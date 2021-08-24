@@ -1,0 +1,6 @@
+#los node modules
+node_modules
+
+
+#los archivos de prueba
+salida/*.txt
